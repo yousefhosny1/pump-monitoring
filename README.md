@@ -5,8 +5,8 @@
 
 **Tech Stack**: *FastAPI*, *Apache Kafka*, *InfluxDB*, *Grafana*, *Docker* and *AWS EC2*.
 
-**The used architecture is as following**
-[![BDM-Week-1-Mind-Map-1.png](https://i.postimg.cc/cJ1RHkqW/BDM-Week-1-Mind-Map-1.png)](https://postimg.cc/RW86pRVp)
+**The Data Platform Architecture is as following**
+[![sasas.png](https://i.postimg.cc/5N77mmzB/sasas.png)](https://postimg.cc/QH7J810C)
 
 **Real-time pump monitoring dashboard**
 [![Grafana-Dashboard-Screenshot.png](https://i.postimg.cc/SR0qjhSK/Grafana-Dashboard-Screenshot.png)](https://postimg.cc/hz0N3N7F)
