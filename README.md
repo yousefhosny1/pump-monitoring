@@ -1,2 +1,2 @@
-# pump-monitoring
-Real-time pump monitoring
+# water_pump_monitoring
+Water Pump Monitoring System
